@@ -1,7 +1,6 @@
 # Project 3 - TweetReader
 
 TweetReader is a basic twitter app to view, compose, favorite, and retweet tweets.
-
 Time spent: **20** hours spent in total
 
 # Twitter - Part II
@@ -14,7 +13,6 @@ The following **required** functionality is completed:
 - [X] User can retweet a tweet. (2pts)
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
 <img src='twitter-codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
