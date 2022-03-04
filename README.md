@@ -5,9 +5,6 @@ TweetReader is a basic twitter app to view, compose, favorite, and retweet tweet
 Time spent: **20** hours spent in total
 
 # Twitter - Part II
-
-Time spent: **X** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
