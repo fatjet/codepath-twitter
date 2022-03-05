@@ -1,5 +1,5 @@
-# Project 3 - TweetReader
-*TweetReader is a basic twitter app to view, compose, favorite, and retweet tweets.*
+# Project 3 - **TweetReader**
+***TweetReader** is a basic twitter app to view, compose, favorite, and retweet tweets.*
 *Time spent: **20** hours spent in total*
 
 # Twitter - Part II
